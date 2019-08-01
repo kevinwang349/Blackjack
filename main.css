@@ -1,0 +1,33 @@
+body{
+    background-color:black;
+    text-align: center;
+}
+p{
+    color: white;
+}
+h1{
+    color: blue;
+}
+.win{
+    color: green;
+}
+.tie{
+    color: yellow;
+}
+.lose{
+    color: red;
+}
+#o{
+    color: orangered;
+}
+#fold{
+    color: green;
+    background-color: greenyellow;
+}
+#hit{
+    color: orange;
+    background-color: yellow;
+}
+#ree{
+    color: red;
+}
